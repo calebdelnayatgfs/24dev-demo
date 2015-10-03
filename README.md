@@ -18,7 +18,7 @@ To install 24dev-demo to an OSGeo system:
 * Copy the tar file to the OSGeo Desktop.
 * Right click on the tar file and select "Extact Here".
 * Navigate to the extracted folder, open a terminal window and run the following command:
-    ./apps/install2Osgeo/bin/install2Osgeo.sh
+**   ./apps/install2Osgeo/bin/install2Osgeo.sh
 * The above command will create databases, install and test the required programs.
 * The program documentation is located online at:  https://github.com/pmcgover/24dev-demo  
 
