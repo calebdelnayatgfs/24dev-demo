@@ -10,7 +10,7 @@ Both users can leverage the following features:
 * Users can rename the base directory and re-run the install script to update profiles.   
 * The install script creates a backup tar file and tests for command success.
 * OSD user scripts can display custom license/release files for each application.  
-* OSD users are encouraged to fork new releases via github renamed as: 24dev-<myApp>. 
+* OSD users are encouraged to fork new releases via github renamed as: 24dev-[myForkName]. 
 * OSD users are encouraged to append their details to the existing but renamed license/release files. 
 
 To install 24dev-demo to an OSGeo Live DVD system:
